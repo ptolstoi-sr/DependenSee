@@ -29,7 +29,7 @@ Root folder (usually solution folder) to look for csproj files recursively. If n
 
 If your path has spaces, you will need to enclose it in double quotes.
 
-Note that if a project inside this folder has a reference to a project that is outside of this folder, DependenSee WILL enumerate those folders. However this is not reccomended. Always run DependenSee on the root folder of your projects for consistent and correct results.
+Note that if a project inside this folder has a reference to a project that is outside of this folder, DependenSee WILL enumerate those folders. However this is not recommended. Always run DependenSee on the root folder of your projects for consistent and correct results.
 
 ### Examples
 

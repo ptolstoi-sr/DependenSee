@@ -11,7 +11,7 @@ I have started work on the next major version of DependenSee. See [what's coming
 
 # Install
 
- ***Requires .NET 6 Runtime***
+ ***Requires .NET 8 Runtime***
 
 `dotnet tool install DependenSee --global`
 

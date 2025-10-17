@@ -362,4 +362,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 */Properties/launchSettings.json
-/HtmlResultDebug_ca.html
+
+# Result of debug
+/HtmlResultDebug*.html
